@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Achref Chebbi</h1>
 <br>
-<h3 align="center">  mobile and web developer</h3>
+<h3 align="center"> freelancer</h3>
 
 - 🔭 I am currently a freelance mobile and web developer, and I am pursuing a Master's Degree in Computer Networks and Cloud Computing.
 
@@ -10,7 +10,7 @@
 
 <h3 align="center">Find me:</h3>
 <div align="center">
-  <a href="https:https://www.linkedin.com/in/achref-chebbi-026603182/" target="blank">
+  <a href="https://www.linkedin.com/in/achref-chebbi-026603182/" target="blank">
     <img align="center" src="assets/linkedin.svg" alt="miguel-pacheco-ruiz" height="30" width="40"/>
   </a>
   <a href="mailto:Chebbiachref1997@gmail.com" target="blank">
