@@ -108,6 +108,9 @@
    <a href="#" target="_blank">
     <img src="assets/aws.svg" alt="aws" width="40" height="40"/>
   </a>
+   <a href="#" target="_blank">
+    <img src="assets/azure.svg" alt="azure" width="40" height="40"/>
+  </a>
   
 </div>
 
