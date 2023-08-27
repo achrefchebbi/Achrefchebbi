@@ -76,27 +76,41 @@
     <img src="assets/js.svg" alt="Javascript" width="40" height="40"/>
   </a>
   <a href="#" target="_blank">
-    <img src="assets/typescript.svg" alt="Typescript" width="40" height="40"/>
+    <img src="assets/git.svg" alt="git" width="40" height="40"/>
   </a>
  
   <a href="#" target="_blank">
     <img src="assets/react.svg" alt="React js" width="40" height="40"/>
   </a>
    <a href="#" target="_blank">
-    <img src="assets/expo.svg" alt="Expo" width="40" height="40"/>
+    <img src="assets/android.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="#" target="_blank">
-    <img src="assets/vue.svg" alt="Vue js" width="40" height="40"/>
+    <img src="assets/flutter.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="#" target="_blank">
-    <img src="assets/vite.svg" alt="Vite" width="40" height="40"/>
+    <img src="assets/java.svg" alt="java" width="40" height="40"/>
   </a>
  
   <a href="#" target="_blank">
-    <img src="assets/nginx.svg" alt="Nginx" width="40" height="40"/>
+    <img src="assets/jenkis.svg" alt="jenkis" width="40" height="40"/>
   </a>
   <a href="#" target="_blank">
     <img src="assets/docker.svg" alt="Docker" width="40" height="40"/>
+  </a>
+   </a>
+  <a href="#" target="_blank">
+    <img src="assets/ansible.svg" alt="ansible" width="40" height="40"/>
+  </a>
+    </a>
+  <a href="#" target="_blank">
+    <img src="assets/kubernetes.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+   <a href="#" target="_blank">
+    <img src="assets/gc.svg" alt="google cloud" width="40" height="40"/>
+  </a>
+   <a href="#" target="_blank">
+    <img src="assets/aws.svg" alt="aws" width="40" height="40"/>
   </a>
   
 </div>
