@@ -47,7 +47,7 @@
     <img src="assets/figma.svg" alt="figma" height="40" width="40" />
   </a>
   <a href="#" target="blank">
-    <img src="assets/gitpod.svg" alt="gitpod" height="40" width="40" />
+    <img src="assets/Git.svg" alt="gitpod" height="40" width="40" />
   </a>
   <a href="#" target="blank">
     <img src="assets/teams.svg" alt="teams" height="40" width="40" />
@@ -75,11 +75,7 @@
    <a href="#" target="_blank">
     <img src="assets/js.svg" alt="Javascript" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="assets/git.svg" alt="git" width="40" height="40"/>
-  </a>
- 
-  <a href="#" target="_blank">
+   <a href="#" target="_blank">
     <img src="assets/react.svg" alt="React js" width="40" height="40"/>
   </a>
    <a href="#" target="_blank">
@@ -93,7 +89,7 @@
   </a>
  
   <a href="#" target="_blank">
-    <img src="assets/jenkis.svg" alt="jenkis" width="40" height="40"/>
+    <img src="assets/jenkins.svg" alt="jenkins" width="40" height="40"/>
   </a>
   <a href="#" target="_blank">
     <img src="assets/docker.svg" alt="Docker" width="40" height="40"/>
