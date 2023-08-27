@@ -52,6 +52,9 @@
   <a href="#" target="blank">
     <img src="assets/teams.svg" alt="teams" height="40" width="40" />
   </a>
+   <a href="#" target="blank">
+    <img src="assets/slack.svg" alt="slack" height="40" width="40" />
+  </a>
 </div>
 <br />
 
